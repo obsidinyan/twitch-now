@@ -1,7 +1,7 @@
 {
-    "m1" : { "message" : "sordi striime..."},
-    "m2" : { "message" : "ava striime..."},
-    "m3" : { "message" : "ava vestlus..."},
+    "m1" : { "message" : "sordi striime"},
+    "m2" : { "message" : "ava striime"},
+    "m3" : { "message" : "ava vestlus"},
     "m4" : { "message" : "Näita kasti, et näha palju jälgitavaid striime eetris on"},
     "m5" : { "message" : "näita teateid kui jälgitavad striimid lähevad eetrisse"},
     "m6" : { "message" : "peida teade pärast"},
